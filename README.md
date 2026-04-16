@@ -1,6 +1,6 @@
 # Video Compression Fall 2025 @ NYCU
 
-This repository is dedicated to the programming assignments for the Video Compression course in Fall 2025 at NYCU.
+This repository is dedicated to the programming assignments for the Video Compression course in Fall 2025 at NYCU, lectured by Professor 劉育綸.
 
 ## Coursework Overview
 
